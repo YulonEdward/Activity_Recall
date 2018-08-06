@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActivityReCall</string>
+
+    <string name="register">註冊BroadCast Receiver2</string>
+    <string name="unregister">註銷BroadCast Receiver2</string>
+    <string name="sendbroadcast1">傳送My_BroadCast1</string>
+    <string name="sendbroadcast2">傳送My_BroadCast2</string>
+
+    <string name="start_service">啟動 MyService</string>
+    <string name="stop_service">停止 MyService</string>
+    <string name="bind_service">連結 MyService</string>
+    <string name="unbind_service">斷開 MyService</string>
+    <string name="call_serviceMethod">呼叫 MyService 中的 MyMethod()</string>
+</resources>
